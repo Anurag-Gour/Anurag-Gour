@@ -1,17 +1,17 @@
  <h1 align="center">Hi 👋, I'm Anurag</h1>
     <h3 align="center">Web Developer and CP Entusiast</h3>
 
-    <p align="left">
+   <p align="left">
       <img
         src="https://komarev.com/ghpvc/?username=anurag-gour&label=Profile%20views&color=0e75b6&style=flat"
         alt="anurag-gour"
       />
     </p>
 
-    - 🌱 I’m currently learning **MERN STACK** - 📫 How to reach me
+   - 🌱 I’m currently learning **MERN STACK** - 📫 How to reach me
     **gour3551@gmail.com**
 
-    <h3 align="left">Connect with me:</h3>
+   <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://linkedin.com/in/anurag-gour-844070230" target="blank"
         ><img
@@ -39,7 +39,7 @@
       /></a>
     </p>
 
-    <h3 align="left">Languages and Tools:</h3>
+   <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img
@@ -167,7 +167,7 @@
       </a>
     </p>
 
-    <p>
+   <p>
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-gour&show_icons=true&locale=en&layout=compact"
