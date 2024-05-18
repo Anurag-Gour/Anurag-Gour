@@ -85,6 +85,5 @@
     — Matt Mullenweg
   </blockquote>
   <br />
-  <iframe src="https://openai.com/blog" height="300px" width="100%" frameBorder="0">Loading...</iframe>
 </div>
 
